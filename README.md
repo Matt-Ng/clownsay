@@ -7,3 +7,7 @@ make clownsay
 ## How to use:
 Either run ./clownsay with the message as command line argument
 or you can pipe it in like echo "hi" | ./clownsay
+
+My recommendation:
+
+fortune | ./cowsay
