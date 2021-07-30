@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 using namespace std;
@@ -19,14 +18,14 @@ int main(int argc, char *argv[])
 	std::cout << '-';
     }
     std::cout << '+' << '\n';
-    std::cout << message << '\n';    
+    std::cout << '|';
+    std::cout << message << "|\n";    
     
     std::cout << '+';
     for(int i = 0; i < message.length(); i++){
         std::cout << '-';
     }
     std::cout << '+' << '\n';
-
 
     std::cout << R"(
 	\
