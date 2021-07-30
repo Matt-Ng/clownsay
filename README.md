@@ -10,4 +10,4 @@ or you can pipe it in like echo "hi" | ./clownsay
 
 My recommendation:
 
-fortune | ./cowsay
+fortune | ./clownsay
