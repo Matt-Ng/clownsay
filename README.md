@@ -5,7 +5,7 @@ cowsay... except it's a clown lol. I may add more clowns, I might even add thing
 make clownsay
 
 ## How to use:
-Either run ./clownsay with the message as command line argument
+Either run ./clownsay with the message as command line argument(s)
 or you can pipe it in like echo "hi" | ./clownsay
 
 My recommendation:
