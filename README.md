@@ -1,7 +1,6 @@
 # Clownsay
 
-cowsay... except it's a clown lol. I may add more clowns, I might even add things that aren't clowns. Possibilities are endless. All I know that this is pretty cool.
-
+cowsay... except it's a clown lol. I may add more clowns, I might even add things that aren't clowns. Possibilities are endless.
 ## Setup:
 make clownsay
 
